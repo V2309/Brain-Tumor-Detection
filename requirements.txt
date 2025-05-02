@@ -1,0 +1,6 @@
+torch>=2.0.0
+torchvision>=0.15.0
+keras>=2.15.0
+tensorflow>=2.15.1
+flask
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
